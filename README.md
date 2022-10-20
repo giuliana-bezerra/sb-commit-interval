@@ -11,4 +11,5 @@ Esse projeto demonstra como a escolha do intervalo de commit afeta um job Spring
 
 ## Referências
 
+- [Vídeo do Youtube](https://youtu.be/zC0J-v122ck)
 - [Curso de Spring Batch](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/?referralCode=8743E206FA9240686B20)
